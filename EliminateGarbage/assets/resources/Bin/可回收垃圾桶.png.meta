@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eeb8a4a9-9942-4142-9656-d66e20699967",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "可回收垃圾桶": {
+      "ver": "1.0.3",
+      "uuid": "62f756e3-703c-4f90-a6cc-6719e36ff6b5",
+      "rawTextureUuid": "eeb8a4a9-9942-4142-9656-d66e20699967",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 120,
+      "trimY": 57,
+      "width": 160,
+      "height": 285,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
